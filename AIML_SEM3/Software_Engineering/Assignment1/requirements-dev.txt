@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8.0
+playwright>=1.45
+nbclient>=0.10
+ipykernel>=6.29
